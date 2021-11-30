@@ -1,1 +1,1 @@
-# In Deep Shit personal repo by Roy
+# In Deep Shit personal repo
