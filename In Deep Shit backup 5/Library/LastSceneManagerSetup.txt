@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/In Deep Shit_restored.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
