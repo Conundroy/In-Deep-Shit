@@ -1,0 +1,484 @@
+Using pre-set license
+Desktop is 1920 x 1080 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/conundroy/Documents/Unity/Projects/In Deep Shit backup 5
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+34613
+Successfully changed project path to: /home/conundroy/Documents/Unity/Projects/In Deep Shit backup 5
+/home/conundroy/Documents/Unity/Projects/In Deep Shit backup 5
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 28,43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path /home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/conundroy/Documents/Unity/Projects/In Deep Shit backup 5/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: Radeon RX 570 Series (POLARIS10, DRM 3.35.0, 5.4.0-91-generic, LLVM 13.0.0)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 21.3.1 - kisak-mesa PPA
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_A
+RB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_a
+rray GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_text
+ure_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -1632560848
+Initialize mono
+Mono path[0] = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56124
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0,001709 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 25,87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,488 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0,004641 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,007 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0,38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1131 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 65,6 MB.
+System memory in use after: 65,5 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 1664.
+Total: 5,668913 ms (FindLiveObjects: 0,338050 ms CreateObjectMapping: 0,084700 ms MarkObjects: 4,759123 ms  DeleteObjects: 0,484570 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8a6b67dfd4c895cfbe32605e680af5') in 1,127495 seconds
+  Import took 1,131950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76,101675 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6db12f4acda4194e92215960129e3e0b') in 1,004321 seconds
+  Import took 1,009969 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1078,152890 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc830e239c6de4e51d4b13ba17e50fac') in 1,070934 seconds
+  Import took 1,076591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 362,300725 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f3109424ad757028b9f34b2217f7bb3') in 1,104725 seconds
+  Import took 1,110236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49,164983 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aff4839a9bb7a11a41f64b9c29ca3014') in 1,097157 seconds
+  Import took 1,102902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16,975999 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a03be4aff600e9a5d7e5e79693457b6b') in 1,262382 seconds
+  Import took 1,268258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 54,365722 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b89486e185e0ea8bccd9e14f16068b76') in 1,125404 seconds
+  Import took 1,130610 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75,540442 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8f49d0d5ae7d618237cd77619f90a0a') in 0,988004 seconds
+  Import took 0,993714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95,147174 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c4eae6afe524fcfb82de22ad5cf5a9') in 1,005728 seconds
+  Import took 1,011585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83,255770 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d6acd7463ee9ba44e84fbd61478a0e') in 1,017476 seconds
+  Import took 1,023427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 130,608752 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86d2dd1170a1d231da9f31993670bac9') in 1,013610 seconds
+  Import took 1,018471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 94,795861 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970b843e5ed0289e507c72aed6968cc2') in 1,022939 seconds
+  Import took 1,028248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127,552467 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b70a3094e656c023424ec1bb3f9428f5') in 0,996894 seconds
+  Import took 1,002458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 219,181992 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d0fc4b7a16aa383d781cdcdd7d391a5') in 0,996333 seconds
+  Import took 1,001267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 174,485773 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a54857913177fa248f17de389e965289') in 1,181667 seconds
+  Import took 1,186920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 706,728069 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e67a778d25fafb158110846b741693e9') in 1,113324 seconds
+  Import took 1,118939 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,008983 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,918 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72,2 MB.
+System memory in use after: 72,1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1710.
+Total: 5,233553 ms (FindLiveObjects: 0,285140 ms CreateObjectMapping: 0,069810 ms MarkObjects: 4,643873 ms  DeleteObjects: 0,232880 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 400,105443 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e30e9c0d8bf6923ff7d2ac99bcf9bfd') in 1,105690 seconds
+  Import took 1,111633 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,005222 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,929 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72,3 MB.
+System memory in use after: 72,2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1714.
+Total: 5,330223 ms (FindLiveObjects: 0,290520 ms CreateObjectMapping: 0,070660 ms MarkObjects: 4,700293 ms  DeleteObjects: 0,266930 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1185,426603 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3acbb68fa26544e1e60a180f40c02714') in 1,163480 seconds
+  Import took 1,167921 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004381 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,949 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72,3 MB.
+System memory in use after: 72,3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1718.
+Total: 5,851123 ms (FindLiveObjects: 0,227750 ms CreateObjectMapping: 0,032560 ms MarkObjects: 5,294403 ms  DeleteObjects: 0,294610 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 241,135645 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93f9175e57d354667e624ccf766789c4') in 1,142566 seconds
+  Import took 1,149164 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004432 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,970 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75,4 MB.
+System memory in use after: 75,4 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1722.
+Total: 2,993372 ms (FindLiveObjects: 0,175480 ms CreateObjectMapping: 0,035490 ms MarkObjects: 2,607981 ms  DeleteObjects: 0,172881 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 153,146912 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac09a6dc61e34259af51f470dad6ab6') in 1,211612 seconds
+  Import took 1,218289 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,003676 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,994 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75,7 MB.
+System memory in use after: 75,7 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1726.
+Total: 5,995043 ms (FindLiveObjects: 0,246750 ms CreateObjectMapping: 0,042630 ms MarkObjects: 5,436873 ms  DeleteObjects: 0,267130 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 489,310749 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a413c658db67904c6c8a3484ed9b7df7') in 1,244277 seconds
+  Import took 1,249576 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004540 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,917 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75,7 MB.
+System memory in use after: 75,7 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1730.
+Total: 4,779703 ms (FindLiveObjects: 0,150390 ms CreateObjectMapping: 0,028420 ms MarkObjects: 4,353423 ms  DeleteObjects: 0,246500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 428,811637 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e012b7dd0fc139c0f31d84ac3c84d67') in 1,170509 seconds
+  Import took 1,174726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1,971934 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b71470d095ff68b42240da83edc7e34') in 1,169459 seconds
+  Import took 1,173786 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,003651 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,909 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75,8 MB.
+System memory in use after: 75,8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1734.
+Total: 4,872962 ms (FindLiveObjects: 0,283450 ms CreateObjectMapping: 0,062480 ms MarkObjects: 4,294552 ms  DeleteObjects: 0,230860 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1352,218067 seconds.
+  path: Assets/block(2).blend
+  artifactKey: Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block(2).blend using Guid(496a501b651fc37a994f12113a8a044e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '643aa527084aa2c9ebbcf3f06a3dbaff') in 1,223676 seconds
+  Import took 1,228501 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004362 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,909 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75,8 MB.
+System memory in use after: 75,8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 1738.
+Total: 4,769773 ms (FindLiveObjects: 0,283520 ms CreateObjectMapping: 0,063980 ms MarkObjects: 4,196963 ms  DeleteObjects: 0,223710 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,003728 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,917 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75,8 MB.
+System memory in use after: 75,8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1741.
+Total: 5,269783 ms (FindLiveObjects: 0,285150 ms CreateObjectMapping: 0,070920 ms MarkObjects: 4,676463 ms  DeleteObjects: 0,235440 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,003635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,903 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75,8 MB.
+System memory in use after: 75,8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1744.
+Total: 5,277203 ms (FindLiveObjects: 0,248371 ms CreateObjectMapping: 0,036870 ms MarkObjects: 4,715252 ms  DeleteObjects: 0,275170 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,003666 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,908 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0,37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 1126 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75,8 MB.
+System memory in use after: 75,8 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 1747.
+Total: 5,032672 ms (FindLiveObjects: 0,218710 ms CreateObjectMapping: 0,028900 ms MarkObjects: 4,557602 ms  DeleteObjects: 0,226370 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
