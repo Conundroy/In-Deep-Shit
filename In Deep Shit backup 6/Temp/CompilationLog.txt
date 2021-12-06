@@ -1,0 +1,50 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-44c051bf1be9232d1b88af8ab6c38a86
+# Starting compiling UnityEngine.UI.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-61a6c8b30ccbd0d709c0ec106e32ca82
+# Starting compiling UnityEditor.TestRunner.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f302820764973d060815a0114d3f0f85
+# Starting compiling UnityEditor.UI.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-d2908e96f145a029f859bc1d1b2ba7e0
+# Starting compiling Unity.VSCode.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-23372f72f717897eea3e67a6bab3241b
+# Starting compiling Unity.RenderPipelines.Universal.Shaders.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-255ad95071f3aa12f95ca1cf496252c5
+# Starting compiling Unity.VisualStudio.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-77faa74b86c6854c18d764eebd7f22b9
+# Starting compiling Unity.Timeline.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fd2f24af3dafe7df88e3d002df98d1ca
+# Starting compiling Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ba244214e30868b48ba023202e930224
+# Starting compiling Unity.TextMeshPro.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-71a12712779ea8e549b4b7cc01497df8
+# Starting compiling Unity.CollabProxy.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f5584ce31a21c073fbedb312cd9bf721
+# Starting compiling Unity.Searcher.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1b82b880b1aa54f5aab4670a1a7b82f4
+# Starting compiling Unity.RenderPipelines.Core.Runtime.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-550d7be1ae4b0dc618d8dee7288a2747
+# Starting compiling Unity.ShaderGraph.Utilities.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-12be7e4d3b2697d38976cef2f1ceb3ec
+# Starting compiling Unity.Rider.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a18ae652efa34f3dfb55a6f9919002e8
+# Starting compiling Unity.RenderPipelines.Core.ShaderLibrary.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fbe4e5ed04cbf0ca391c7016b6461efe
+# Starting compiling Unity.Mathematics.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e94e6e3ce1daad21f8dfe8d496a08a9a
+# Starting compiling Unity.Timeline.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6d9ce9d562d2bea91b9d3b0ac4471a94
+# Starting compiling Unity.ShaderGraph.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7d4dad2e7b75b9124aa7ddf170e6c9d5
+# Starting compiling Unity.RenderPipeline.Universal.ShaderLibrary.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f0574d96d61b9029291f5f66d5747a8d
+# Starting compiling Unity.RenderPipelines.Core.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b4d21121db47c4dc7a77ef40ac54186e
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-427516d79ad2623d5ab3294286581d8c
+# Starting compiling Unity.RenderPipelines.Universal.Runtime.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1233e7fb20a07dd5e895928e62b779ca
+# Starting compiling Unity.Mathematics.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ea2be32e1f33c570dbffb15a37ee242b
+# Starting compiling Unity.RenderPipelines.Universal.Editor.dll
+/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7519ef5a2adfbd343b407493e5443dc9
