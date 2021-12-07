@@ -6670,6 +6670,14 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Ground
       objectReference: {fileID: 0}
+    - target: {fileID: 9035292312868053134, guid: ad81dfc7a6e825f96b13f4ae540de331, type: 3}
+      propertyPath: m_NavMeshLayer
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9035292312868053134, guid: ad81dfc7a6e825f96b13f4ae540de331, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 8
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ad81dfc7a6e825f96b13f4ae540de331, type: 3}
 --- !u!1 &817505902 stripped
@@ -7154,7 +7162,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"pooped","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"poopAmmo","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"catPooped","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"catPoopAmmo","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camera","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"player","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"poopedTrail","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"score","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"pooped","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"poopAmmo","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"catPooped","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"catPoopAmmo","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camera","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"player","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"poopedTrail","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"score","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"doubleJump","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1168275742}
     - {fileID: 529404977}
@@ -7164,6 +7172,7 @@ MonoBehaviour:
     - {fileID: 137739439}
     - {fileID: 0}
     - {fileID: 601438166}
+    - {fileID: 1530794809}
 --- !u!4 &966650320
 Transform:
   m_ObjectHideFlags: 0
@@ -8317,6 +8326,69 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1530064047}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1465209106, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!1 &1530794809
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1530794810}
+  - component: {fileID: 1530794812}
+  - component: {fileID: 1530794811}
+  m_Layer: 0
+  m_Name: Double jump
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1530794810
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530794809}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -2.1022863, y: -8.21613, z: -4.4163847}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1530794811
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530794809}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: af526cfe080c1a7c58a698bb80583d5c, type: 2}
+--- !u!114 &1530794812
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1530794809}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: -1465209106, guid: c8d0ad23af520fe46aabe2b1fecf6462, type: 3}
