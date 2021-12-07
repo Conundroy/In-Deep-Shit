@@ -10,12 +10,13 @@ TagManager:
   - Pooped player
   - Poop
   - Cleaner
-  - Cat poop
-  - Cat pooped
   - Cat pooped player
   - Special zone 1
   - SZ1
   - Waypoint
+  - Flatulent poop
+  - Flatulent pooped
+  - Flatulent pooped player
   layers:
   - Default
   - TransparentFX
