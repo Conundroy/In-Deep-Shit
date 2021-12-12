@@ -207,7 +207,7 @@ Animator:
   m_GameObject: {fileID: 23149663}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 17a0d151bbc5f80da9c12c80c495edf3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 42937783b264e9b618eac1506495f860, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -863,7 +863,7 @@ Animator:
   m_GameObject: {fileID: 233792887}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 17a0d151bbc5f80da9c12c80c495edf3, type: 2}
+  m_Controller: {fileID: 9100000, guid: 42937783b264e9b618eac1506495f860, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -7939,24 +7939,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"pooped","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"poopAmmo","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"flatulentPooped","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"flatulentPoopAmmo","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camera","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"player","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"score","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"afterScore","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"doubleJump","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camPivot","value":{"$content":9,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushB","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushF","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushL","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushR","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"playerAnim","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"timer","value":{"$content":15,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"pooped","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"poopAmmo","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"flatulentPooped","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"flatulentPoopAmmo","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camera","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camPivot","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"player","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"score","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"afterScore","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"timer","value":{"$content":9,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"doubleJump","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushB","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushF","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushL","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushR","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1168275742}
     - {fileID: 529404977}
     - {fileID: 254237780}
     - {fileID: 1542997372}
     - {fileID: 1145601740}
+    - {fileID: 1880257838}
     - {fileID: 137739439}
     - {fileID: 601438166}
     - {fileID: 485574915}
+    - {fileID: 2004085001}
     - {fileID: 1530794809}
-    - {fileID: 1880257838}
     - {fileID: 112245504}
     - {fileID: 1299499664}
     - {fileID: 1160610432}
     - {fileID: 1125275772}
-    - {fileID: 1772743084}
-    - {fileID: 2004085001}
 --- !u!4 &966650320
 Transform:
   m_ObjectHideFlags: 0
