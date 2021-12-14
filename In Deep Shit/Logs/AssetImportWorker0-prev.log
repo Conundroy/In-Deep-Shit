@@ -1,0 +1,570 @@
+Using pre-set license
+Desktop is 1920 x 1080 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/conundroy/Documents/Unity/Projects/In Deep Shit backup 8
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+45081
+Successfully changed project path to: /home/conundroy/Documents/Unity/Projects/In Deep Shit backup 8
+/home/conundroy/Documents/Unity/Projects/In Deep Shit backup 8
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43,50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path /home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/conundroy/Documents/Unity/Projects/In Deep Shit backup 8/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: Radeon RX 570 Series (POLARIS10, DRM 3.35.0, 5.4.0-91-generic, LLVM 13.0.0)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 21.3.1 - kisak-mesa PPA
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_A
+RB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_a
+rray GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_text
+ure_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 269977504
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56484
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0,001872 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 49,98 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,360 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0,005279 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 45,37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,135 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0,81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2385 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 116,5 MB.
+System memory in use after: 116,6 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2922.
+Total: 7,193712 ms (FindLiveObjects: 0,451260 ms CreateObjectMapping: 0,193140 ms MarkObjects: 6,091302 ms  DeleteObjects: 0,455690 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/tutorial.unity
+  artifactKey: Guid(a2e554c33815901f89214e569cc0a737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tutorial.unity using Guid(a2e554c33815901f89214e569cc0a737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34b7e498c2bd2fe6acd7390505a752dd') in 0,014366 seconds
+  Import took 0,020639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37,585505 seconds.
+  path: Assets/test level.unity
+  artifactKey: Guid(354d3d916e2df743d92685329c343338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test level.unity using Guid(354d3d916e2df743d92685329c343338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2152439c543ebd152feceff93b275c') in 0,001968 seconds
+  Import took 0,007430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30,218903 seconds.
+  path: Assets/tutorial level.unity
+  artifactKey: Guid(354d3d916e2df743d92685329c343338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tutorial level.unity using Guid(354d3d916e2df743d92685329c343338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fc6f23782fbf472485ad92f9fc91241') in 0,001592 seconds
+  Import took 0,007190 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6,289595 seconds.
+  path: Assets/test level.unity
+  artifactKey: Guid(a2e554c33815901f89214e569cc0a737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/test level.unity using Guid(a2e554c33815901f89214e569cc0a737) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c685ab2e8d48f2a13b940109995313d9') in 0,001641 seconds
+  Import took 0,008378 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004656 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,966 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111,2 MB.
+System memory in use after: 111,3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2925.
+Total: 6,863582 ms (FindLiveObjects: 0,462870 ms CreateObjectMapping: 0,152330 ms MarkObjects: 6,027172 ms  DeleteObjects: 0,219430 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 120,661757 seconds.
+  path: Assets/block.blend
+  artifactKey: Guid(ad81dfc7a6e825f96b13f4ae540de331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block.blend using Guid(ad81dfc7a6e825f96b13f4ae540de331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181a410a441764497c7fc305d6ca1303') in 0,213923 seconds
+  Import took 0,218535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5,060541 seconds.
+  path: Assets/block.blend
+  artifactKey: Guid(ad81dfc7a6e825f96b13f4ae540de331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block.blend using Guid(ad81dfc7a6e825f96b13f4ae540de331) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181a410a441764497c7fc305d6ca1303') in 0,112832 seconds
+  Import took 0,119154 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004324 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,073 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112,7 MB.
+System memory in use after: 112,8 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2938.
+Total: 6,349163 ms (FindLiveObjects: 0,457861 ms CreateObjectMapping: 0,135910 ms MarkObjects: 5,508072 ms  DeleteObjects: 0,245400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004218 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,048 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112,7 MB.
+System memory in use after: 112,8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2941.
+Total: 5,816022 ms (FindLiveObjects: 0,377820 ms CreateObjectMapping: 0,125670 ms MarkObjects: 5,132312 ms  DeleteObjects: 0,178040 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004231 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,988 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112,8 MB.
+System memory in use after: 112,9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2944.
+Total: 6,706022 ms (FindLiveObjects: 0,468110 ms CreateObjectMapping: 0,152120 ms MarkObjects: 5,847792 ms  DeleteObjects: 0,236170 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 982,977685 seconds.
+  path: Assets/tutorial level.unity
+  artifactKey: Guid(354d3d916e2df743d92685329c343338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tutorial level.unity using Guid(354d3d916e2df743d92685329c343338) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc463407c2df1123324dffc25f3b261d') in 0,016610 seconds
+  Import took 0,023089 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,054 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112,7 MB.
+System memory in use after: 112,8 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2947.
+Total: 6,543232 ms (FindLiveObjects: 0,462590 ms CreateObjectMapping: 0,147600 ms MarkObjects: 5,690252 ms  DeleteObjects: 0,240370 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004253 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,007 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,81 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112,8 MB.
+System memory in use after: 112,9 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2950.
+Total: 6,211862 ms (FindLiveObjects: 0,451740 ms CreateObjectMapping: 0,136330 ms MarkObjects: 5,390372 ms  DeleteObjects: 0,231640 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3538,786687 seconds.
+  path: Assets/block.blend1
+  artifactKey: Guid(a7671c3a8d03f1380aadd442415c35b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/block.blend1 using Guid(a7671c3a8d03f1380aadd442415c35b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8d2fd1721f27512dae13fafa4181db0') in 0,016976 seconds
+  Import took 0,023194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2776,549382 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0b11cb1d0db5a0ee9dbc73f8bb1a0cb') in 0,102154 seconds
+  Import took 0,108052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 62,453001 seconds.
+  path: Assets/Animation/butt anim.controller
+  artifactKey: Guid(17a0d151bbc5f80da9c12c80c495edf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/butt anim.controller using Guid(17a0d151bbc5f80da9c12c80c495edf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fcc37038a6e770932d4253893c5be07') in 0,008580 seconds
+  Import took 0,014808 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004212 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,053 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113,0 MB.
+System memory in use after: 113,1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2987.
+Total: 6,851192 ms (FindLiveObjects: 0,485780 ms CreateObjectMapping: 0,150330 ms MarkObjects: 5,972362 ms  DeleteObjects: 0,240460 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,005025 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,068 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113,0 MB.
+System memory in use after: 113,1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2990.
+Total: 7,265463 ms (FindLiveObjects: 0,663921 ms CreateObjectMapping: 0,193880 ms MarkObjects: 6,159002 ms  DeleteObjects: 0,246510 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 334,912357 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8497c01c7c6b1395048f67d9bfeddf57') in 0,095341 seconds
+  Import took 0,101220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19,915849 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f86cc4c31303d065eee96b18e02613') in 0,024082 seconds
+  Import took 0,030599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,043965 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16f86cc4c31303d065eee96b18e02613') in 0,024444 seconds
+  Import took 0,031148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17,212016 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b51662d6144337ba24f4db006895990e') in 0,020442 seconds
+  Import took 0,026568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,019799 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b51662d6144337ba24f4db006895990e') in 0,018128 seconds
+  Import took 0,025057 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004230 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,83 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,014 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113,0 MB.
+System memory in use after: 113,1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2994.
+Total: 7,130343 ms (FindLiveObjects: 0,495790 ms CreateObjectMapping: 0,149541 ms MarkObjects: 6,244662 ms  DeleteObjects: 0,238450 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004269 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,014 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112,9 MB.
+System memory in use after: 113,0 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2997.
+Total: 6,892102 ms (FindLiveObjects: 0,483970 ms CreateObjectMapping: 0,151830 ms MarkObjects: 6,018102 ms  DeleteObjects: 0,236300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 227,096492 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1224cc267b34c91787709915adf0eae3') in 0,094656 seconds
+  Import took 0,101179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000699 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1224cc267b34c91787709915adf0eae3') in 0,013867 seconds
+  Import took 0,017310 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004217 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,055 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,72 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113,0 MB.
+System memory in use after: 113,1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3001.
+Total: 5,998052 ms (FindLiveObjects: 0,520260 ms CreateObjectMapping: 0,126860 ms MarkObjects: 5,114082 ms  DeleteObjects: 0,234700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 166,293819 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8407cd24910f23e5ddb24e237ffed1') in 0,089614 seconds
+  Import took 0,096100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,010353 seconds.
+  path: Assets/Animation/jump.fbx
+  artifactKey: Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/jump.fbx using Guid(aef1947d6e3590b9681cbb36b52e5035) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db8407cd24910f23e5ddb24e237ffed1') in 0,017569 seconds
+  Import took 0,021408 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,005053 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,067 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113,0 MB.
+System memory in use after: 113,2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3005.
+Total: 5,199872 ms (FindLiveObjects: 0,482250 ms CreateObjectMapping: 0,150300 ms MarkObjects: 4,423232 ms  DeleteObjects: 0,142200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 77,548935 seconds.
+  path: Assets/Animation/butt anim.controller
+  artifactKey: Guid(17a0d151bbc5f80da9c12c80c495edf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animation/butt anim.controller using Guid(17a0d151bbc5f80da9c12c80c495edf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f0a87d511ad59bb2e0195b0300cdf70') in 0,018973 seconds
+  Import took 0,025469 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004194 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,984 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113,1 MB.
+System memory in use after: 113,2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3008.
+Total: 6,442942 ms (FindLiveObjects: 0,416450 ms CreateObjectMapping: 0,150390 ms MarkObjects: 5,738712 ms  DeleteObjects: 0,135540 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004196 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,986 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113,1 MB.
+System memory in use after: 113,2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3011.
+Total: 6,800773 ms (FindLiveObjects: 0,475120 ms CreateObjectMapping: 0,151960 ms MarkObjects: 5,934402 ms  DeleteObjects: 0,237491 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,004969 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,992 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113,0 MB.
+System memory in use after: 113,1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3014.
+Total: 6,741282 ms (FindLiveObjects: 0,475630 ms CreateObjectMapping: 0,149200 ms MarkObjects: 5,874012 ms  DeleteObjects: 0,240400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0,005174 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,073 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2325 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113,1 MB.
+System memory in use after: 113,2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 3017.
+Total: 6,995752 ms (FindLiveObjects: 0,480320 ms CreateObjectMapping: 0,157380 ms MarkObjects: 6,142512 ms  DeleteObjects: 0,213610 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
