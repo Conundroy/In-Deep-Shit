@@ -13,8 +13,563 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
-    m_Keys: []
-    m_Values: 
+    m_Keys:
+    - Assets/Animation.meta
+    - Assets/Animation/butt anim.controller
+    - Assets/Animation/butt anim.controller.meta
+    - Assets/Animation/butt_jumo.fbx
+    - Assets/Animation/butt_jumo.fbx.meta
+    - Assets/Animation/butt_walk 2.fbx
+    - Assets/Animation/butt_walk 2.fbx.meta
+    - Assets/Animation/food.fbx
+    - Assets/Animation/food.fbx.meta
+    - Assets/Animation/npc anim.controller
+    - Assets/Animation/npc anim.controller.meta
+    - Assets/Bolt scripts.meta
+    - Assets/Bolt scripts/AI.meta
+    - Assets/Bolt scripts/AI/adultAI.asset
+    - Assets/Bolt scripts/AI/adultAI.asset.meta
+    - Assets/Bolt scripts/AI/childAI.asset
+    - Assets/Bolt scripts/AI/childAI.asset.meta
+    - Assets/Bolt scripts/AI/mopAI.asset
+    - Assets/Bolt scripts/AI/mopAI.asset.meta
+    - Assets/Bolt scripts/Filth sources.meta
+    - Assets/Bolt scripts/Filth sources/catPoopCtrl.asset
+    - Assets/Bolt scripts/Filth sources/catPoopCtrl.asset.meta
+    - Assets/Bolt scripts/Filth sources/flatulentPoopAmmo.asset
+    - Assets/Bolt scripts/Filth sources/flatulentPoopAmmo.asset.meta
+    - Assets/Bolt scripts/Filth sources/poopAmmo.asset
+    - Assets/Bolt scripts/Filth sources/poopAmmo.asset.meta
+    - Assets/Bolt scripts/Filth sources/poopCtrl.asset
+    - Assets/Bolt scripts/Filth sources/poopCtrl.asset.meta
+    - Assets/Bolt scripts/Player.meta
+    - Assets/Bolt scripts/Player/Camera pivot.meta
+    - Assets/Bolt scripts/Player/Camera pivot/camCtrl.asset
+    - Assets/Bolt scripts/Player/Camera pivot/camCtrl.asset.meta
+    - Assets/Bolt scripts/Player/control.asset
+    - Assets/Bolt scripts/Player/control.asset.meta
+    - Assets/Bolt scripts/Trail FX.meta
+    - Assets/Bolt scripts/Trail FX/catPoopedTrailCtrl.asset
+    - Assets/Bolt scripts/Trail FX/catPoopedTrailCtrl.asset.meta
+    - Assets/Bolt scripts/Trail FX/poopedTrailCtrl.asset
+    - Assets/Bolt scripts/Trail FX/poopedTrailCtrl.asset.meta
+    - Assets/Bolt scripts/Trail tiles.meta
+    - Assets/Bolt scripts/Trail tiles/flatulentPoopedCtrl.asset
+    - Assets/Bolt scripts/Trail tiles/flatulentPoopedCtrl.asset.meta
+    - Assets/Bolt scripts/Trail tiles/poopedCtrl.asset
+    - Assets/Bolt scripts/Trail tiles/poopedCtrl.asset.meta
+    - Assets/Bolt scripts/adultBonus.asset
+    - Assets/Bolt scripts/adultBonus.asset.meta
+    - Assets/Bolt scripts/camCulling.asset
+    - Assets/Bolt scripts/camCulling.asset.meta
+    - Assets/Bolt scripts/camCullingObj.asset
+    - Assets/Bolt scripts/camCullingObj.asset.meta
+    - Assets/Bolt scripts/childBonus.asset
+    - Assets/Bolt scripts/childBonus.asset.meta
+    - Assets/Bolt scripts/doubleJump.asset
+    - Assets/Bolt scripts/doubleJump.asset.meta
+    - Assets/Bolt scripts/toLvl1.asset
+    - Assets/Bolt scripts/toLvl1.asset.meta
+    - Assets/Bolt scripts/tutNPC.asset
+    - Assets/Bolt scripts/tutNPC.asset.meta
+    - Assets/Bolt_1_4_15_Source.zip
+    - Assets/Bolt_1_4_15_Source.zip.meta
+    - Assets/In Deep Shit.unity
+    - Assets/In Deep Shit.unity.meta
+    - Assets/In Deep Shit_restored.meta
+    - Assets/Ludiq.meta
+    - Assets/Ludiq/Assemblies.meta
+    - Assets/Ludiq/Assemblies/Antlr3.Runtime.defines
+    - Assets/Ludiq/Assemblies/Antlr3.Runtime.defines.meta
+    - Assets/Ludiq/Assemblies/Antlr3.Runtime.dll
+    - Assets/Ludiq/Assemblies/Antlr3.Runtime.dll.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.defines
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.defines.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll.mdb
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.dll.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.pdb
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.pdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.xml
+    - Assets/Ludiq/Assemblies/Bolt.Core.Editor.xml.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.defines
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.defines.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll.mdb
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.dll.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.pdb
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.pdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.xml
+    - Assets/Ludiq/Assemblies/Bolt.Core.Runtime.xml.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.defines
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.defines.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll.mdb
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.dll.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.pdb
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.pdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.xml
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Editor.xml.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.defines
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.defines.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll.mdb
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.dll.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.pdb
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.pdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.xml
+    - Assets/Ludiq/Assemblies/Bolt.Flow.Runtime.xml.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.defines
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.defines.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.dll
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.dll.mdb
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.dll.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.pdb
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.pdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.xml
+    - Assets/Ludiq/Assemblies/Bolt.State.Editor.xml.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.defines
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.defines.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll.mdb
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.dll.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.pdb
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.pdb.meta
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.xml
+    - Assets/Ludiq/Assemblies/Bolt.State.Runtime.xml.meta
+    - Assets/Ludiq/Assemblies/Ionic.Zip.defines
+    - Assets/Ludiq/Assemblies/Ionic.Zip.defines.meta
+    - Assets/Ludiq/Assemblies/Ionic.Zip.dll
+    - Assets/Ludiq/Assemblies/Ionic.Zip.dll.meta
+    - Assets/Ludiq/Assemblies/Ionic.Zip.xml
+    - Assets/Ludiq/Assemblies/Ionic.Zip.xml.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.defines
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.defines.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll.mdb
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.dll.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.pdb
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.pdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.xml
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Editor.xml.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.defines
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.defines.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll.mdb
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.dll.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.pdb
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.pdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.xml
+    - Assets/Ludiq/Assemblies/Ludiq.Core.Runtime.xml.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.defines
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.defines.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll.mdb
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.pdb
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.pdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.xml
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Editor.xml.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.defines
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.defines.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll.mdb
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.pdb
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.pdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.xml
+    - Assets/Ludiq/Assemblies/Ludiq.Graphs.Runtime.xml.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.defines
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.defines.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.dll
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.dll.mdb
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.dll.mdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.dll.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.pdb
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.pdb.meta
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.xml
+    - Assets/Ludiq/Assemblies/Ludiq.Platforms.xml.meta
+    - Assets/Ludiq/Assemblies/MiscUtil.defines
+    - Assets/Ludiq/Assemblies/MiscUtil.defines.meta
+    - Assets/Ludiq/Assemblies/MiscUtil.dll
+    - Assets/Ludiq/Assemblies/MiscUtil.dll.meta
+    - Assets/Ludiq/Assemblies/MiscUtil.xml
+    - Assets/Ludiq/Assemblies/MiscUtil.xml.meta
+    - Assets/Ludiq/Assemblies/YamlDotNet.defines
+    - Assets/Ludiq/Assemblies/YamlDotNet.defines.meta
+    - Assets/Ludiq/Assemblies/YamlDotNet.dll
+    - Assets/Ludiq/Assemblies/YamlDotNet.dll.meta
+    - Assets/Ludiq/Assemblies/YamlDotNet.xml
+    - Assets/Ludiq/Assemblies/YamlDotNet.xml.meta
+    - Assets/Ludiq/Assemblies/sqlite3.dll
+    - Assets/Ludiq/Assemblies/sqlite3.dll.meta
+    - Assets/Ludiq/Bolt.Core.meta
+    - Assets/Ludiq/Bolt.Core/Bolt.Core.root
+    - Assets/Ludiq/Bolt.Core/Bolt.Core.root.meta
+    - Assets/Ludiq/Bolt.Core/Generated.meta
+    - Assets/Ludiq/Bolt.Core/Generated/ProjectSettings.asset
+    - Assets/Ludiq/Bolt.Core/Generated/ProjectSettings.asset.meta
+    - Assets/Ludiq/Bolt.Core/Generated/Variables.meta
+    - Assets/Ludiq/Bolt.Core/Generated/Variables/Resources.meta
+    - Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/ApplicationVariables.asset
+    - Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/ApplicationVariables.asset.meta
+    - Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/SavedVariables.asset
+    - Assets/Ludiq/Bolt.Core/Generated/Variables/Resources/SavedVariables.asset.meta
+    - Assets/Ludiq/Bolt.Core/IconMap.meta
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.AnimatorMessageListener.png
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.AnimatorMessageListener.png.meta
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.GlobalMessageListener.png
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.GlobalMessageListener.png.meta
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.SceneVariables.png
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.SceneVariables.png.meta
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.UnityMessageListener.png
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.UnityMessageListener.png.meta
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.Variables.png
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.Variables.png.meta
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesAsset.png
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesAsset.png.meta
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesSaver.png
+    - Assets/Ludiq/Bolt.Core/IconMap/Bolt.VariablesSaver.png.meta
+    - Assets/Ludiq/Bolt.Flow.meta
+    - Assets/Ludiq/Bolt.Flow/Bolt.Flow.root
+    - Assets/Ludiq/Bolt.Flow/Bolt.Flow.root.meta
+    - Assets/Ludiq/Bolt.Flow/Generated.meta
+    - Assets/Ludiq/Bolt.Flow/Generated/ProjectSettings.asset
+    - Assets/Ludiq/Bolt.Flow/Generated/ProjectSettings.asset.meta
+    - Assets/Ludiq/Bolt.Flow/Generated/UnitOptions.db
+    - Assets/Ludiq/Bolt.Flow/Generated/UnitOptions.db.meta
+    - Assets/Ludiq/Bolt.Flow/IconMap.meta
+    - Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMachine.png
+    - Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMachine.png.meta
+    - Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMacro.png
+    - Assets/Ludiq/Bolt.Flow/IconMap/Bolt.FlowMacro.png.meta
+    - Assets/Ludiq/Bolt.State.meta
+    - Assets/Ludiq/Bolt.State/Bolt.State.root
+    - Assets/Ludiq/Bolt.State/Bolt.State.root.meta
+    - Assets/Ludiq/Bolt.State/Generated.meta
+    - Assets/Ludiq/Bolt.State/Generated/ProjectSettings.asset
+    - Assets/Ludiq/Bolt.State/Generated/ProjectSettings.asset.meta
+    - Assets/Ludiq/Bolt.State/IconMap.meta
+    - Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMachine.png
+    - Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMachine.png.meta
+    - Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMacro.png
+    - Assets/Ludiq/Bolt.State/IconMap/Bolt.StateMacro.png.meta
+    - Assets/Ludiq/Bolt.meta
+    - Assets/Ludiq/Bolt/Bolt.root
+    - Assets/Ludiq/Bolt/Bolt.root.meta
+    - Assets/Ludiq/Bolt/Documentation.meta
+    - Assets/Ludiq/Bolt/Documentation/0. READ ME FIRST.txt
+    - Assets/Ludiq/Bolt/Documentation/0. READ ME FIRST.txt.meta
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction.meta
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/1. Installation.pdf
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/1. Installation.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/2. Configuration.pdf
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/2. Configuration.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/3. Windows & Shortcuts.pdf
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/3. Windows & Shortcuts.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/4. Updates & Backups.pdf
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/4. Updates & Backups.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/5. Documentation.pdf
+    - Assets/Ludiq/Bolt/Documentation/1. Introduction/5. Documentation.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/2. Basic Concepts.meta
+    - Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/1. Types.pdf
+    - Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/1. Types.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/2. Variables.pdf
+    - Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/2. Variables.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/3. Graphs, Machines & Macros.pdf
+    - Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/3. Graphs, Machines & Macros.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/4. Groups.pdf
+    - Assets/Ludiq/Bolt/Documentation/2. Basic Concepts/4. Groups.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/3. Flow Graphs.meta
+    - Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/1. Units & Ports.pdf
+    - Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/1. Units & Ports.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/2. Connections & Relations.pdf
+    - Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/2. Connections & Relations.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/3. Predictive & Live Debugging.pdf
+    - Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/3. Predictive & Live Debugging.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/4. Super Units.pdf
+    - Assets/Ludiq/Bolt/Documentation/3. Flow Graphs/4. Super Units.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/4. State Graphs.meta
+    - Assets/Ludiq/Bolt/Documentation/4. State Graphs/1. Flow States & Super States.pdf
+    - Assets/Ludiq/Bolt/Documentation/4. State Graphs/1. Flow States & Super States.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/4. State Graphs/2. Transitions.pdf
+    - Assets/Ludiq/Bolt/Documentation/4. State Graphs/2. Transitions.pdf.meta
+    - Assets/Ludiq/Bolt/Documentation/4. State Graphs/3. State Units.pdf
+    - Assets/Ludiq/Bolt/Documentation/4. State Graphs/3. State Units.pdf.meta
+    - Assets/Ludiq/Bolt/LICENSES.txt
+    - Assets/Ludiq/Bolt/LICENSES.txt.meta
+    - Assets/Ludiq/Ludiq.Core.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Conversion.v3.5.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Conversion.v3.5.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Engine.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Engine.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Framework.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Framework.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Utilities.v3.5.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.Build.Utilities.v3.5.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.VisualC.STLCLR.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/Microsoft.VisualC.STLCLR.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.AddIn.Contract.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.AddIn.Contract.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.AddIn.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.AddIn.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ComponentModel.DataAnnotations.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ComponentModel.DataAnnotations.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Configuration.Install.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Configuration.Install.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Configuration.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Configuration.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Core.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Core.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.DataSetExtensions.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.DataSetExtensions.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Entity.Design.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Entity.Design.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Entity.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Entity.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Linq.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Linq.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.Client.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.Client.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.Design.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.Design.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.Services.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.SqlXml.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.SqlXml.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Data.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Deployment.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Deployment.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.DirectoryServices.AccountManagement.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.DirectoryServices.AccountManagement.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.DirectoryServices.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.DirectoryServices.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Drawing.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Drawing.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.EnterpriseServices.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.EnterpriseServices.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.IdentityModel.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.IdentityModel.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Management.Instrumentation.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Management.Instrumentation.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Management.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Management.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Messaging.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Messaging.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Net.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Net.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Printing.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Printing.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Remoting.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Remoting.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Serialization.Formatters.Soap.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Serialization.Formatters.Soap.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Serialization.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Runtime.Serialization.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Security.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Security.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceModel.Web.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceModel.Web.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceModel.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceModel.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceProcess.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.ServiceProcess.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Transactions.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Transactions.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Abstractions.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Abstractions.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.DynamicData.Design.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.DynamicData.Design.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.DynamicData.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.DynamicData.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Entity.Design.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Entity.Design.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Entity.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Entity.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Extensions.Design.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Extensions.Design.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Extensions.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Extensions.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Routing.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Routing.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Services.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Web.Services.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Windows.Forms.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Windows.Forms.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Windows.Presentation.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Windows.Presentation.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.WorkflowServices.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.WorkflowServices.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Xml.Linq.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Xml.Linq.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Xml.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.Xml.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/System.xml.meta
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/mscorlib.xml
+    - Assets/Ludiq/Ludiq.Core/DotNetDocumentation/mscorlib.xml.meta
+    - Assets/Ludiq/Ludiq.Core/Generated.meta
+    - Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset
+    - Assets/Ludiq/Ludiq.Core/Generated/ProjectSettings.asset.meta
+    - Assets/Ludiq/Ludiq.Core/Ludiq.Core.root
+    - Assets/Ludiq/Ludiq.Core/Ludiq.Core.root.meta
+    - Assets/Ludiq/Ludiq.Graphs.meta
+    - Assets/Ludiq/Ludiq.Graphs/Generated.meta
+    - Assets/Ludiq/Ludiq.Graphs/Generated/ProjectSettings.asset
+    - Assets/Ludiq/Ludiq.Graphs/Generated/ProjectSettings.asset.meta
+    - Assets/Ludiq/Ludiq.Graphs/Ludiq.Graphs.root
+    - Assets/Ludiq/Ludiq.Graphs/Ludiq.Graphs.root.meta
+    - Assets/Ludiq/Ludiq.meta
+    - Assets/Ludiq/Ludiq/Ludiq.root
+    - Assets/Ludiq/Ludiq/Ludiq.root.meta
+    - Assets/Material.meta
+    - Assets/Material/Adult Color.mat
+    - Assets/Material/Adult Color.mat.meta
+    - Assets/Material/Child Color.mat
+    - Assets/Material/Child Color.mat.meta
+    - Assets/Material/Janitor Color.mat
+    - Assets/Material/Janitor Color.mat.meta
+    - Assets/Material/Materials.meta
+    - Assets/Material/Materials/textureFP.mat
+    - Assets/Material/Materials/textureFP.mat.meta
+    - Assets/Material/New Material.mat
+    - Assets/Material/New Material.mat.meta
+    - Assets/Material/blueMaterial.mat
+    - Assets/Material/blueMaterial.mat.meta
+    - Assets/Material/catPoop.mat
+    - Assets/Material/catPoop.mat.meta
+    - Assets/Material/culling.mat
+    - Assets/Material/culling.mat.meta
+    - Assets/Material/footprintMaterial.mat
+    - Assets/Material/footprintMaterial.mat.meta
+    - Assets/Material/greenMaterial.mat
+    - Assets/Material/greenMaterial.mat.meta
+    - Assets/Material/greyMaterial.mat
+    - Assets/Material/greyMaterial.mat.meta
+    - Assets/Material/poopMaterial.mat
+    - Assets/Material/poopMaterial.mat.meta
+    - Assets/Material/textureFP.png
+    - Assets/Material/textureFP.png.meta
+    - Assets/Material/trail.mat
+    - Assets/Material/trail.mat.meta
+    - Assets/Material/tut_lvl.meta
+    - Assets/Material/tut_lvl/Material.001.mat
+    - Assets/Material/tut_lvl/Material.001.mat.meta
+    - Assets/Material/tut_lvl/Material.002.mat
+    - Assets/Material/tut_lvl/Material.002.mat.meta
+    - Assets/Material/tut_lvl/Material.003.mat
+    - Assets/Material/tut_lvl/Material.003.mat.meta
+    - Assets/Material/tut_lvl/Material.004.mat
+    - Assets/Material/tut_lvl/Material.004.mat.meta
+    - Assets/Material/tut_lvl/Material.005.mat
+    - Assets/Material/tut_lvl/Material.005.mat.meta
+    - Assets/Material/tut_lvl/Material.006.mat
+    - Assets/Material/tut_lvl/Material.006.mat.meta
+    - Assets/Material/tut_lvl/Material.007.mat
+    - Assets/Material/tut_lvl/Material.007.mat.meta
+    - Assets/Material/tut_lvl/Material.mat
+    - Assets/Material/tut_lvl/Material.mat.meta
+    - Assets/Materials.meta
+    - Assets/Materials/invis.mat
+    - Assets/Materials/invis.mat.meta
+    - Assets/Materials/mirror.mat
+    - Assets/Materials/mirror.mat.meta
+    - Assets/NPCs.meta
+    - Assets/NPCs/Adult.prefab
+    - Assets/NPCs/Adult.prefab.meta
+    - Assets/NPCs/Child.prefab
+    - Assets/NPCs/Child.prefab.meta
+    - Assets/NPCs/Janitor.prefab
+    - Assets/NPCs/Janitor.prefab.meta
+    - Assets/New Terrain.asset
+    - Assets/New Terrain.asset.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Filth sources.meta
+    - Assets/Prefabs/Filth sources/Flatulent poop.prefab
+    - Assets/Prefabs/Filth sources/Flatulent poop.prefab.meta
+    - Assets/Prefabs/Filth sources/Poop.prefab
+    - Assets/Prefabs/Filth sources/Poop.prefab.meta
+    - Assets/Prefabs/Trail tiles.meta
+    - Assets/Prefabs/Trail tiles/Flatulent pooped.prefab
+    - Assets/Prefabs/Trail tiles/Flatulent pooped.prefab.meta
+    - Assets/Prefabs/Trail tiles/Pooped.prefab
+    - Assets/Prefabs/Trail tiles/Pooped.prefab.meta
+    - Assets/Prefabs/poopFP.preset
+    - Assets/Prefabs/poopFP.preset.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/block (1)(1).blend
+    - Assets/block (1)(1).blend.meta
+    - Assets/block (1)(1).blend1
+    - Assets/block (1)(1).blend1.meta
+    - Assets/block (1)(1).blend2
+    - Assets/block (1)(1).blend2.meta
+    - Assets/block (1)(1).blend3
+    - Assets/block (1)(1).blend3.meta
+    - Assets/block (1)(1).blend4
+    - Assets/block (1)(1).blend4.meta
+    - Assets/block (1)(1).blend5
+    - Assets/block (1)(1).blend5.meta
+    - Assets/block (1).blend
+    - Assets/block (1).blend.meta
+    - Assets/block (1).blend1
+    - Assets/block (1).blend1.meta
+    - Assets/block (1).blend2
+    - Assets/block (1).blend2.meta
+    - Assets/block.blend
+    - Assets/block.blend.meta
+    - Assets/block.blend1
+    - Assets/block.blend1.meta
+    - Assets/catPoopCtrl.asset
+    - Assets/catPoopCtrl.asset.meta
+    - Assets/invis.png
+    - Assets/invis.png.meta
+    - Assets/paper.prefab
+    - Assets/paper.prefab.meta
+    - Assets/park level.meta
+    - Assets/park level.unity
+    - Assets/park level.unity.meta
+    - Assets/park level/NavMesh.asset
+    - Assets/park level/NavMesh.asset.meta
+    - Assets/test level.meta
+    - Assets/test level.unity
+    - Assets/test level.unity.meta
+    - Assets/test level/NavMesh.asset
+    - Assets/test level/NavMesh.asset.meta
+    - Assets/tutorial level.unity
+    - Assets/tutorial level.unity.meta
+    - Assets/tutorial.meta
+    - Assets/tutorial/LightingData.asset
+    - Assets/tutorial/LightingData.asset.meta
+    - Assets/tutorial/Lightmap-0_comp_dir.png
+    - Assets/tutorial/Lightmap-0_comp_dir.png.meta
+    - Assets/tutorial/Lightmap-0_comp_light.exr
+    - Assets/tutorial/Lightmap-0_comp_light.exr.meta
+    - Assets/tutorial/NavMesh.asset
+    - Assets/tutorial/NavMesh.asset.meta
+    - Assets/tutorial/ReflectionProbe-0.exr
+    - Assets/tutorial/ReflectionProbe-0.exr.meta
+    - Assets/tutorial/ReflectionProbe-1.exr
+    - Assets/tutorial/ReflectionProbe-1.exr.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 

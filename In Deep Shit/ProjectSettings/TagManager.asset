@@ -19,6 +19,10 @@ TagManager:
   - Flatulent pooped player
   - child count
   - Child
+  - Adult
+  - adult count
+  - Level transition
+  - Level transition indicator
   layers:
   - Default
   - TransparentFX
