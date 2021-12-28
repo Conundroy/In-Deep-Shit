@@ -257,7 +257,7 @@ GameObject:
   - component: {fileID: 105260038}
   m_Layer: 0
   m_Name: Cube
-  m_TagString: Level transition
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1625,7 +1625,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 
 --- !u!222 &485574918
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2077,7 +2077,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: New Text
+  m_Text: 
 --- !u!222 &601438169
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -8305,7 +8305,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"pooped","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"poopAmmo","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"flatulentPooped","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"flatulentPoopAmmo","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camera","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camPivot","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"player","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"score","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"afterScore","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"multUI","value":{"$content":9,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"timer","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"doubleJump","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushB","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushF","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushL","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushR","value":{"$content":15,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[{"name":"pooped","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"poopAmmo","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"flatulentPooped","value":{"$content":2,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"flatulentPoopAmmo","value":{"$content":3,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camera","value":{"$content":4,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"camPivot","value":{"$content":5,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"player","value":{"$content":6,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"score","value":{"$content":7,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"multUI","value":{"$content":8,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"bonusUI","value":{"$content":9,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"afterScore","value":{"$content":10,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"timer","value":{"$content":11,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"doubleJump","value":{"$content":12,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushB","value":{"$content":13,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushF","value":{"$content":14,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushL","value":{"$content":15,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"tushR","value":{"$content":16,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
     _objectReferences:
     - {fileID: 1168275742}
     - {fileID: 529404977}
@@ -8315,8 +8315,9 @@ MonoBehaviour:
     - {fileID: 1880257838}
     - {fileID: 137739439}
     - {fileID: 601438166}
-    - {fileID: 485574915}
     - {fileID: 704970830}
+    - {fileID: 1538207531}
+    - {fileID: 485574915}
     - {fileID: 2004085001}
     - {fileID: 1530794809}
     - {fileID: 112245504}
@@ -9262,7 +9263,7 @@ GameObject:
   - component: {fileID: 1221152037}
   m_Layer: 0
   m_Name: Spot Light
-  m_TagString: Level transition indicator
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
