@@ -35,6 +35,7 @@ GameObject:
   - component: {fileID: 7842048688167918584}
   - component: {fileID: 7842048688167918585}
   - component: {fileID: 7842048688167918586}
+  - component: {fileID: 4129960177415058229}
   m_Layer: 7
   m_Name: Janitor
   m_TagString: Cleaner
@@ -149,10 +150,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"distanceToFilth","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"angleToFilth","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"directionToFilth","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"nullFallback","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"},{"name":"playerDetection","value":{"$content":1,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 0}
-    - {fileID: 0}
+    _json: '{"declarations":{"collection":{"$content":[{"name":"distanceToFilth","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"angleToFilth","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"directionToFilth","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"},{"name":"distanceToPlayer","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"angleToPlayer","value":{"$content":1.0,"$type":"System.Single"},"$version":"A"},{"name":"directionToPlayer","value":{"x":0.0,"y":0.0,"z":0.0,"$type":"UnityEngine.Vector3"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!195 &7842048688167918585
 NavMeshAgent:
   m_ObjectHideFlags: 0
@@ -191,6 +190,22 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 4197c93c217471548af5a8c3025351cb, type: 2}
+--- !u!114 &4129960177415058229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7842048688167918588}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -57143145, guid: a040fb66244a7f54289914d98ea4ef7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
+    _objectReferences:
+    - {fileID: 11400000, guid: cb40b0762bb9553aeb4a311659bdd0ee, type: 2}
 --- !u!1 &7842048689376099734
 GameObject:
   m_ObjectHideFlags: 0
