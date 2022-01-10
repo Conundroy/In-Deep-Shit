@@ -1,0 +1,607 @@
+Using pre-set license
+Desktop is 1920 x 1080 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/conundroy/Documents/My Documents/School/DMS4/A3/In Deep Shit
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+39303
+Successfully changed project path to: /home/conundroy/Documents/My Documents/School/DMS4/A3/In Deep Shit
+/home/conundroy/Documents/My Documents/School/DMS4/A3/In Deep Shit
+Using Asset Import Pipeline V2.
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Refreshing native plugins compatible for Editor in 51,38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path /home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/conundroy/Documents/My Documents/School/DMS4/A3/In Deep Shit/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: Radeon RX 570 Series (POLARIS10, DRM 3.35.0, 5.4.0-92-generic, LLVM 13.0.0)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 21.3.3 - kisak-mesa PPA
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_A
+RB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_a
+rray GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_text
+ure_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -641433456
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0,001627 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 53,48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,371 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0,005272 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 58,06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,231 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0,64 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178,2 MB.
+System memory in use after: 178,3 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2942.
+Total: 7,407164 ms (FindLiveObjects: 0,490770 ms CreateObjectMapping: 0,193560 ms MarkObjects: 6,041134 ms  DeleteObjects: 0,679610 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '280931f90931fc4fcec0db7ef3979ea0') in 1,086557 seconds
+  Import took 1,091368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 178,944583 seconds.
+  path: Assets/UNITY ASSET/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Flowers/PT_Poppy_02.fbx
+  artifactKey: Guid(5c7de3ea78afce6468d2ebe76dd0bf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Flowers/PT_Poppy_02.fbx using Guid(5c7de3ea78afce6468d2ebe76dd0bf6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3324e352571e7450fcaa470415d3a3f') in 0,294806 seconds
+  Import took 0,300156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000249 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Steak_Cooked.fbx
+  artifactKey: Guid(8cd4586ebadd1934b84fdbadcc9a8072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Steak_Cooked.fbx using Guid(8cd4586ebadd1934b84fdbadcc9a8072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54fdbe5f4648a34fc15b3a20faefaf3c') in 0,008417 seconds
+  Import took 0,012496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000310 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Steak_Uncooked.fbx
+  artifactKey: Guid(2ed673108d59e3b4b907947d50be6c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Steak_Uncooked.fbx using Guid(2ed673108d59e3b4b907947d50be6c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e4920b181f3dabaf00852820f7138a1') in 0,007681 seconds
+  Import took 0,011532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000237 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Sushi.fbx
+  artifactKey: Guid(901cc454df4ad724a93940db09be892e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Sushi.fbx using Guid(901cc454df4ad724a93940db09be892e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc3372112621c56fdbb0f51063c68d2') in 0,007807 seconds
+  Import took 0,011599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000228 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/SweetPepper.fbx
+  artifactKey: Guid(cead1578867b39244a74ceeda55bb266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/SweetPepper.fbx using Guid(cead1578867b39244a74ceeda55bb266) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226799077c2f093881e3d319c5f6143e') in 0,007854 seconds
+  Import took 0,011654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000225 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Tempura.fbx
+  artifactKey: Guid(11d1501eed1265f47938feb6a406277a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Tempura.fbx using Guid(11d1501eed1265f47938feb6a406277a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94fc057244fe74d4639e7ff4ad3e8dde') in 0,007944 seconds
+  Import took 0,011850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 637,756213 seconds.
+  path: Assets/UNITY ASSET/devotid/Cutlery/Models/Cutlery FBX.FBX
+  artifactKey: Guid(63047feaf49140741bec2aba00c8f0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/devotid/Cutlery/Models/Cutlery FBX.FBX using Guid(63047feaf49140741bec2aba00c8f0de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195ae5abfcf12589479ca4dd89993ae0') in 0,190385 seconds
+  Import took 0,197415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000307 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Pizza.fbx
+  artifactKey: Guid(fec52ddeae99a0745bc188805ff2c7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Pizza.fbx using Guid(fec52ddeae99a0745bc188805ff2c7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3a7becad8c3c8c7488bdaa7761a5a4b') in 0,009046 seconds
+  Import took 0,013495 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000184 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Pineapple.fbx
+  artifactKey: Guid(82731c4f4b197fb49a6a473836aefbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Pineapple.fbx using Guid(82731c4f4b197fb49a6a473836aefbb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db0b322e48c548cb32536ec6e9c47eb3') in 0,009255 seconds
+  Import took 0,013622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3,618056 seconds.
+  path: Assets/UNITY ASSET/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Mushrooms/PT_Caesars_Mushroom_01.fbx
+  artifactKey: Guid(2ec966d90911a454c9760fa28789a4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/Polytope Studio/Lowpoly Medieval Environments/Sources/Meshes/Mushrooms/PT_Caesars_Mushroom_01.fbx using Guid(2ec966d90911a454c9760fa28789a4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '786fed1fbce73ff42fd8e9d44c2b8a78') in 0,593088 seconds
+  Import took 0,599360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17,975502 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Salad.fbx
+  artifactKey: Guid(aaf2164196f8d85479afb58cca7fbeb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Salad.fbx using Guid(aaf2164196f8d85479afb58cca7fbeb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff997166db2f42fd72b1e8e9fedb07d2') in 0,012863 seconds
+  Import took 0,019546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000271 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Shrimp.fbx
+  artifactKey: Guid(30b91b8141924d544a4cc52310773348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Shrimp.fbx using Guid(30b91b8141924d544a4cc52310773348) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f4006d85f8272656caf154379b5a8be') in 0,008874 seconds
+  Import took 0,013522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000247 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Sausage.fbx
+  artifactKey: Guid(d769a7102b90c5645a6dfa3efaeafcbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Sausage.fbx using Guid(d769a7102b90c5645a6dfa3efaeafcbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed6fb238b7b534707a22163baa0ec6ba') in 0,009120 seconds
+  Import took 0,013340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000235 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Saucisson.fbx
+  artifactKey: Guid(1d2ed3c151f92f14384ad32733342672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Saucisson.fbx using Guid(1d2ed3c151f92f14384ad32733342672) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c92f3e7dbc7f2b8e10d1ba99f8b16f') in 0,012128 seconds
+  Import took 0,016659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,084733 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Tacos.fbx
+  artifactKey: Guid(dfb81c113de903a418d28790ca52dd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Tacos.fbx using Guid(dfb81c113de903a418d28790ca52dd2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f678c3dce2fedbf509cb6b437743fa93') in 0,011977 seconds
+  Import took 0,017738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1,057554 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Tomato.fbx
+  artifactKey: Guid(b3eeac06e2127d64a98cfe86b50eeda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Tomato.fbx using Guid(b3eeac06e2127d64a98cfe86b50eeda8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9288fbc65a470453ee9552367a3be619') in 0,012356 seconds
+  Import took 0,018526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16,521585 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5461d2551804bea3c910f70f3b92030') in 0,071580 seconds
+  Import took 0,078198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6,817824 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3cfd63be7ccd9e873fef24b4b038115') in 0,043280 seconds
+  Import took 0,049987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1,193885 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872cbf3a5cad24596a63acb121e9e81a') in 0,049776 seconds
+  Import took 0,056292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11,801214 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Wine_Bottle.fbx
+  artifactKey: Guid(6c7dbfd367d792747aa39a4afc52eb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Wine_Bottle.fbx using Guid(6c7dbfd367d792747aa39a4afc52eb72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c909a28ecc0030cd24ed21d767c0757f') in 0,010290 seconds
+  Import took 0,016505 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,782704 seconds.
+  path: Assets/UNITY ASSET/FREE Food Pack/Mesh/Watermelon.fbx
+  artifactKey: Guid(d0f2ab72785049643aa6edc83f32d9ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UNITY ASSET/FREE Food Pack/Mesh/Watermelon.fbx using Guid(d0f2ab72785049643aa6edc83f32d9ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a44ec8bdc0857b34c8d7a21818438c1a') in 0,011115 seconds
+  Import took 0,017650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8,992789 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d7d451a0da25aa35d86a5777b2b0c3f') in 0,045685 seconds
+  Import took 0,052046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2,805343 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c93b08b1af262b628501d32d42e5079c') in 0,043452 seconds
+  Import took 0,049705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3,171875 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0c7ae8c483944f272096166c349fd19') in 0,058013 seconds
+  Import took 0,065059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5,738039 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b58a275ac9193ccfc4386a41c3beb0e') in 0,057728 seconds
+  Import took 0,064098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36,358053 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa5dd03cfb1fe073c751c635e7d00184') in 0,071407 seconds
+  Import took 0,078961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1,600464 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7ce4f3caca5ff57f1beafb98dc15f58') in 0,045903 seconds
+  Import took 0,054586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8,446962 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebb27365f5f5da69b5c98459fbbaac86') in 0,045936 seconds
+  Import took 0,052402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2,585543 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ddd52f2ea6b60d7b29396ae96bb749d') in 0,043774 seconds
+  Import took 0,050216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11,078779 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12f5ae866caf936f88b241a98bb757f5') in 0,044027 seconds
+  Import took 0,050468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6,735754 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94a36088a0799f2c08d37fb615be9b28') in 0,047611 seconds
+  Import took 0,054271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11,932642 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7051796d933b9b7ba64b359e78517140') in 0,043642 seconds
+  Import took 0,050897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36,739988 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfdfbc37aed074ee4b4566356053f163') in 0,046805 seconds
+  Import took 0,054586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,398680 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67881851ff2911386038247c0860b8d4') in 0,046040 seconds
+  Import took 0,052429 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5,203319 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f42f63e08f286bb2fcc0ba29c6f5d23') in 0,040807 seconds
+  Import took 0,047406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9,402696 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12ff5dccf6b024a69f8cc54db4aecc40') in 0,044813 seconds
+  Import took 0,051153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6,445282 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fec62ed600ce6733c41d223c625f015') in 0,059688 seconds
+  Import took 0,066186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8,258243 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56bac0f789b5e4d88a9bc32da873d785') in 0,040407 seconds
+  Import took 0,047075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9,159563 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9322516fdab6f4a3bf33a562381e3340') in 0,041293 seconds
+  Import took 0,047887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1,447888 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5adb334680d27e0810e24decadbda7d0') in 0,047907 seconds
+  Import took 0,054771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,716570 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756ccfa7cb86f371cf1bec1efa2b563d') in 0,041983 seconds
+  Import took 0,048520 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,734013 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39917fa684e81ac821bc00e291a3b0e4') in 0,040016 seconds
+  Import took 0,046679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3,093233 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a18fa1baee68540a2d90e2988171d39') in 0,046925 seconds
+  Import took 0,053373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20,853917 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71beb750cea201c34d7f8c29980905aa') in 0,047033 seconds
+  Import took 0,053609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1,733507 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ddc1591d5e27ac10ca20a9e2092e04e') in 0,040523 seconds
+  Import took 0,047193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31,366354 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '606ef08a4976da015c4c8742485da575') in 0,051775 seconds
+  Import took 0,058080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2,295903 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38957b031cc7a521d73590d3e5f51e8f') in 0,048088 seconds
+  Import took 0,054692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6,117263 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb04a610fbf05b1134f24b7bab33ccb') in 0,050626 seconds
+  Import took 0,057184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1,025011 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cadcedd9cea218929e839604bc03ead') in 0,043112 seconds
+  Import took 0,049702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1,378682 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4fd28bdb7d22db145e7eb6126e0357') in 0,042342 seconds
+  Import took 0,048910 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,597466 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79cf1ced1a01fcb0edf6b524cefaac08') in 0,043464 seconds
+  Import took 0,049897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,789665 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '235321f5b43d147fc3e229fe585b5414') in 0,060222 seconds
+  Import took 0,066309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2,423365 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd80716b1a9ae51516d78157c06c6fc60') in 0,055746 seconds
+  Import took 0,062510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2,835744 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c035b58616ebe3a2c510c4bed6dccffb') in 0,044321 seconds
+  Import took 0,050854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8,577381 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ae9bd4979a8599dbe0d26196c31996') in 0,041483 seconds
+  Import took 0,048503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4,242755 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33f55d82615fd9eab0ae7560da07f1fe') in 0,056330 seconds
+  Import took 0,063116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4,410523 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) ./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformImageForIconForExtension
+./Editor/Platform/Linux/TempStubs.cpp:PlatformIma -> (artifact id: '39d3ced29a7f702119ac9090aa2a8c8e') in 0,047424 seconds
+  Import took 0,053976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5,418776 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d9a5f73d0c2dd0f09219e5b9cc64daa') in 0,040995 seconds
+  Import took 0,047518 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

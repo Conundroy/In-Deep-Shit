@@ -1,0 +1,390 @@
+Using pre-set license
+Desktop is 1920 x 1080 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/conundroy/Documents/My Documents/School/DMS4/A3/In Deep Shit
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+42501
+Successfully changed project path to: /home/conundroy/Documents/My Documents/School/DMS4/A3/In Deep Shit
+/home/conundroy/Documents/My Documents/School/DMS4/A3/In Deep Shit
+Using Asset Import Pipeline V2.
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Refreshing native plugins compatible for Editor in 49,43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path /home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/conundroy/Documents/My Documents/School/DMS4/A3/In Deep Shit/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: Radeon RX 570 Series (POLARIS10, DRM 3.35.0, 5.4.0-92-generic, LLVM 13.0.0)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 21.3.3 - kisak-mesa PPA
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_A
+RB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_a
+rray GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_text
+ure_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle -235473296
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56631
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/conundroy/Documents/Unity/2020.3.6f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0,001676 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 50,06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,325 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0,005060 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 50,57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,099 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0,60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2399 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 178,2 MB.
+System memory in use after: 178,3 MB.
+
+Unloading 27 unused Assets to reduce memory usage. Loaded Objects now: 2942.
+Total: 7,140414 ms (FindLiveObjects: 0,493220 ms CreateObjectMapping: 0,189940 ms MarkObjects: 5,989663 ms  DeleteObjects: 0,465551 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd665220ae2e6039031d393cb535b491b') in 1,088119 seconds
+  Import took 1,094880 seconds .
+
+========================================================================
+Received Prepare
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Registering precompiled user dll's ...
+Registered in 0,004832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,986 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2327 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173,0 MB.
+System memory in use after: 173,1 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2953.
+Total: 5,950603 ms (FindLiveObjects: 0,461870 ms CreateObjectMapping: 0,151100 ms MarkObjects: 5,136803 ms  DeleteObjects: 0,199500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 119,988350 seconds.
+  path: Assets/NPCs/Child.prefab
+  artifactKey: Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Child.prefab using Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d46db8002a24313d0c9388dc4e8d8ec') in 1,114495 seconds
+  Import took 1,121416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8,735139 seconds.
+  path: Assets/NPCs/Child.prefab
+  artifactKey: Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Child.prefab using Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dea5b4d4d575130ecc357b71483a496f') in 0,052510 seconds
+  Import took 0,059352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8,546245 seconds.
+  path: Assets/NPCs/Child.prefab
+  artifactKey: Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Child.prefab using Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9ce75258b63f5f9358b8e2d4f4edaa') in 0,043980 seconds
+  Import took 0,050594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47,682317 seconds.
+  path: Assets/NPCs/Adult.prefab
+  artifactKey: Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Adult.prefab using Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6cde1155f8d48838a7c82240f13778') in 0,085377 seconds
+  Import took 0,092350 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4,063786 seconds.
+  path: Assets/NPCs/Adult.prefab
+  artifactKey: Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Adult.prefab using Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd747d138c05fe0809279b1f8e94dfdb4') in 0,060008 seconds
+  Import took 0,066771 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6,278103 seconds.
+  path: Assets/NPCs/Adult.prefab
+  artifactKey: Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Adult.prefab using Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d2134a64c0c784d7f2574efa6f0692') in 0,055773 seconds
+  Import took 0,062650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2,261822 seconds.
+  path: Assets/NPCs/Adult.prefab
+  artifactKey: Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Adult.prefab using Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17b9f260ece685eeb042b8e774b0eadb') in 0,054848 seconds
+  Import took 0,061312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1,672508 seconds.
+  path: Assets/NPCs/Adult.prefab
+  artifactKey: Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Adult.prefab using Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98e2fb4e438809888a9dff38758f3fa9') in 0,060042 seconds
+  Import took 0,066438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3,062158 seconds.
+  path: Assets/NPCs/Adult.prefab
+  artifactKey: Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Adult.prefab using Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f3a3febb223f91663bb5d276253a8c') in 0,049345 seconds
+  Import took 0,055823 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6,501712 seconds.
+  path: Assets/NPCs/Adult.prefab
+  artifactKey: Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Adult.prefab using Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '625f31bd4bff086fa2d3973b3fe394d2') in 0,058788 seconds
+  Import took 0,065293 seconds .
+
+========================================================================
+Received Prepare
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Registering precompiled user dll's ...
+Registered in 0,004829 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,985 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2327 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173,1 MB.
+System memory in use after: 173,2 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2958.
+Total: 6,098844 ms (FindLiveObjects: 0,384661 ms CreateObjectMapping: 0,128140 ms MarkObjects: 5,213242 ms  DeleteObjects: 0,371321 ms)
+
+========================================================================
+Received Prepare
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Registering precompiled user dll's ...
+Registered in 0,005129 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1,030 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2327 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173,1 MB.
+System memory in use after: 173,2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2961.
+Total: 7,649124 ms (FindLiveObjects: 0,536840 ms CreateObjectMapping: 0,184691 ms MarkObjects: 6,500853 ms  DeleteObjects: 0,424570 ms)
+
+========================================================================
+Received Prepare
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Registering precompiled user dll's ...
+Registered in 0,004843 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,973 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2327 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173,1 MB.
+System memory in use after: 173,2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2964.
+Total: 6,194974 ms (FindLiveObjects: 0,355490 ms CreateObjectMapping: 0,128061 ms MarkObjects: 5,335112 ms  DeleteObjects: 0,374711 ms)
+
+========================================================================
+Received Prepare
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Registering precompiled user dll's ...
+Registered in 0,004960 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,977 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2327 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173,1 MB.
+System memory in use after: 173,2 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2967.
+Total: 6,077344 ms (FindLiveObjects: 0,334120 ms CreateObjectMapping: 0,113471 ms MarkObjects: 5,248612 ms  DeleteObjects: 0,379211 ms)
+
+========================================================================
+Received Prepare
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Registering precompiled user dll's ...
+Registered in 0,004959 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,984 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,67 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2327 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173,2 MB.
+System memory in use after: 173,3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2970.
+Total: 6,935264 ms (FindLiveObjects: 0,463291 ms CreateObjectMapping: 0,149310 ms MarkObjects: 5,926323 ms  DeleteObjects: 0,394510 ms)
+
+========================================================================
+Received Prepare
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Registering precompiled user dll's ...
+Registered in 0,004926 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,978 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,66 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2327 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173,2 MB.
+System memory in use after: 173,3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2973.
+Total: 6,313224 ms (FindLiveObjects: 0,435951 ms CreateObjectMapping: 0,135450 ms MarkObjects: 5,343003 ms  DeleteObjects: 0,397020 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 559,478289 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '174dcc946843010597c471285f4e588f') in 1,083376 seconds
+  Import took 1,090564 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,054231 seconds.
+  path: Assets/NPCs/Janitor.prefab
+  artifactKey: Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Janitor.prefab using Guid(ebd9dc452cbc22d408d91c637d37748d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '174dcc946843010597c471285f4e588f') in 0,050672 seconds
+  Import took 0,057357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3,440461 seconds.
+  path: Assets/NPCs/Child.prefab
+  artifactKey: Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Child.prefab using Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96cf95dabd8d52784a4a7d1c47415220') in 0,184803 seconds
+  Import took 0,191332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0,000923 seconds.
+  path: Assets/NPCs/Child.prefab
+  artifactKey: Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Child.prefab using Guid(68cbf799beeb6a342a8d80d4963c829c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96cf95dabd8d52784a4a7d1c47415220') in 0,053294 seconds
+  Import took 0,057101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3,421110 seconds.
+  path: Assets/NPCs/Adult.prefab
+  artifactKey: Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCs/Adult.prefab using Guid(0a020bc6f680d06b1a23a67305192546) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46438633c45460ea7fcb4ac42ad81238') in 0,058061 seconds
+  Import took 0,065325 seconds .
+
+========================================================================
+Received Prepare
+Setting a NavMeshArea cost less than one can give unexpected results.
+
+Registering precompiled user dll's ...
+Registered in 0,004952 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0,59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0,992 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0,79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0,00 ms.
+Unloading 2327 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 173,2 MB.
+System memory in use after: 173,3 MB.
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 2977.
+Total: 7,212974 ms (FindLiveObjects: 0,447401 ms CreateObjectMapping: 0,151970 ms MarkObjects: 6,195453 ms  DeleteObjects: 0,415690 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
